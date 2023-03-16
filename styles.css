@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+  }
+  
+  .holder{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+  }
+  
+  .card{
+      background-color: black;
+      color: white;
+      padding:3em;
+      width: 500px;
+  /*   margin: auto; */
+  }
+  
+  .one{
+    margin-bottom: 1em;
+  }
+  
+  .two{
+    margin-bottom: 1em;
+  }
+  
+  .three{
+      margin-top: 1.5em;
+  }
+  
+  #btn{
+    padding:0.6em;
+    font-weight: 700;
+    background-color: yellow;
+    outline: none;
+    border: none;
+    margin-right: 1em;
+  }
+  
+  .highlight{
+  color: yellow;
+  }
+  
+  .two a{
+  color: yellow;
+  }
+  
+            
